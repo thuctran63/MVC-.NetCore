@@ -1,0 +1,16 @@
+﻿@model FA.JustBlog.Core.Model.Post
+
+<div class="post-preview container">
+    <a href="post.html">
+        <h2 class="post-title">@Model.Title</h2>
+        <h3 class="post-subtitle">@Model.ShortDescription</h3>
+        <p>@Model.PostContent</p>
+    </a>
+    <p class="post-meta">
+        Posted by
+        <a href="#!">@Model.Id</a>
+        @Model.PostedOn.ToString("MMMM dd, yyyy")
+    </p>
+</div>
+<!-- Divider-->
+<hr class="my-4" />

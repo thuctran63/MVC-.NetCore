@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FA.JustBlog.Core", "FA.JustBlog.Core\FA.JustBlog.Core.csproj", "{350BC6B0-08BA-4841-9F51-66AA054EDCD2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FA.JustBlog", "FA.JustBlog\FA.JustBlog.csproj", "{512C06A4-CBCA-4248-AF77-8707D812E9D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{350BC6B0-08BA-4841-9F51-66AA054EDCD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{350BC6B0-08BA-4841-9F51-66AA054EDCD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{350BC6B0-08BA-4841-9F51-66AA054EDCD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{350BC6B0-08BA-4841-9F51-66AA054EDCD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{512C06A4-CBCA-4248-AF77-8707D812E9D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{512C06A4-CBCA-4248-AF77-8707D812E9D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{512C06A4-CBCA-4248-AF77-8707D812E9D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{512C06A4-CBCA-4248-AF77-8707D812E9D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FDE2720-7875-4D0C-946A-780563F4E401}
+	EndGlobalSection
+EndGlobal

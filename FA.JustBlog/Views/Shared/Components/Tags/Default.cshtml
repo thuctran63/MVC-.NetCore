@@ -1,0 +1,19 @@
+﻿@model IEnumerable<FA.JustBlog.Core.Model.Tag>
+
+<div class="card" style="width: 18rem">
+    <ul class="list-group list-group-flush">
+
+        <div class="card-header">
+            Lasted Posts
+        </div>
+
+        @foreach (var item in Model)
+        {
+            <li class="list-group-item">
+                <a class="card-title">@item.Name</a>
+            </li>
+        }
+
+    </ul>
+
+</div>

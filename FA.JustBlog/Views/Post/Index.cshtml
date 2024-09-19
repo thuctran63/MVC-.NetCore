@@ -1,0 +1,18 @@
+﻿@model IEnumerable<FA.JustBlog.Core.Model.Post>
+
+<div class="container">
+     <h2>All Posts</h2>
+     @if(Model.Count() != 0)
+     {
+         foreach(Post item in Model)
+         {
+             <li>
+                 <h3>@item.Title</h3>
+                 <p>@item.ShortDescription</p>
+                 <p><small>Published on: @item.PostedOn.ToString("MMMM dd, yyyy")</small></p>
+                 @Html.ActionLink("Detail Post", "Details", "Post", new { year = item.PostedOn.Year.ToString(),month = item.PostedOn.Month.ToString("00"), slug = item.UrlSlug })
+                 
+             </li>
+         }
+     }
+ </div>

@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\EF_Core\\FA.JustBlog\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{512C06A4-CBCA-4248-AF77-8707D812E9D6}|FA.JustBlog\\FA.JustBlog.csproj|d:\\ef_core\\fa.justblog\\fa.justblog\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{512C06A4-CBCA-4248-AF77-8707D812E9D6}|FA.JustBlog\\FA.JustBlog.csproj|solutionrelative:fa.justblog\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{512C06A4-CBCA-4248-AF77-8707D812E9D6}|FA.JustBlog\\FA.JustBlog.csproj|d:\\ef_core\\fa.justblog\\fa.justblog\\views\\shared\\components\\lastedposts\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{512C06A4-CBCA-4248-AF77-8707D812E9D6}|FA.JustBlog\\FA.JustBlog.csproj|solutionrelative:fa.justblog\\views\\shared\\components\\lastedposts\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{512C06A4-CBCA-4248-AF77-8707D812E9D6}|FA.JustBlog\\FA.JustBlog.csproj|d:\\ef_core\\fa.justblog\\fa.justblog\\views\\shared\\_partialaboutcard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{512C06A4-CBCA-4248-AF77-8707D812E9D6}|FA.JustBlog\\FA.JustBlog.csproj|solutionrelative:fa.justblog\\views\\shared\\_partialaboutcard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{512C06A4-CBCA-4248-AF77-8707D812E9D6}|FA.JustBlog\\FA.JustBlog.csproj|d:\\ef_core\\fa.justblog\\fa.justblog\\views\\post\\_listposts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{512C06A4-CBCA-4248-AF77-8707D812E9D6}|FA.JustBlog\\FA.JustBlog.csproj|solutionrelative:fa.justblog\\views\\post\\_listposts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{512C06A4-CBCA-4248-AF77-8707D812E9D6}|FA.JustBlog\\FA.JustBlog.csproj|d:\\ef_core\\fa.justblog\\fa.justblog\\views\\shared\\components\\lastedposts\\lastedpostsviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{512C06A4-CBCA-4248-AF77-8707D812E9D6}|FA.JustBlog\\FA.JustBlog.csproj|solutionrelative:fa.justblog\\views\\shared\\components\\lastedposts\\lastedpostsviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_PartialAboutCard.cshtml",
+              "DocumentMoniker": "D:\\EF_Core\\FA.JustBlog\\FA.JustBlog\\Views\\Shared\\_PartialAboutCard.cshtml",
+              "RelativeDocumentMoniker": "FA.JustBlog\\Views\\Shared\\_PartialAboutCard.cshtml",
+              "ToolTip": "D:\\EF_Core\\FA.JustBlog\\FA.JustBlog\\Views\\Shared\\_PartialAboutCard.cshtml",
+              "RelativeToolTip": "FA.JustBlog\\Views\\Shared\\_PartialAboutCard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T02:44:29.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "D:\\EF_Core\\FA.JustBlog\\FA.JustBlog\\Views\\Shared\\Components\\LastedPosts\\Default.cshtml",
+              "RelativeDocumentMoniker": "FA.JustBlog\\Views\\Shared\\Components\\LastedPosts\\Default.cshtml",
+              "ToolTip": "D:\\EF_Core\\FA.JustBlog\\FA.JustBlog\\Views\\Shared\\Components\\LastedPosts\\Default.cshtml",
+              "RelativeToolTip": "FA.JustBlog\\Views\\Shared\\Components\\LastedPosts\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T02:41:50.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ListPosts.cshtml",
+              "DocumentMoniker": "D:\\EF_Core\\FA.JustBlog\\FA.JustBlog\\Views\\Post\\_ListPosts.cshtml",
+              "RelativeDocumentMoniker": "FA.JustBlog\\Views\\Post\\_ListPosts.cshtml",
+              "ToolTip": "D:\\EF_Core\\FA.JustBlog\\FA.JustBlog\\Views\\Post\\_ListPosts.cshtml",
+              "RelativeToolTip": "FA.JustBlog\\Views\\Post\\_ListPosts.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T02:42:19.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\EF_Core\\FA.JustBlog\\FA.JustBlog\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FA.JustBlog\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\EF_Core\\FA.JustBlog\\FA.JustBlog\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FA.JustBlog\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADcAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T02:41:03.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LastedPostsViewComponent.cs",
+              "DocumentMoniker": "D:\\EF_Core\\FA.JustBlog\\FA.JustBlog\\Views\\Shared\\Components\\LastedPosts\\LastedPostsViewComponent.cs",
+              "RelativeDocumentMoniker": "FA.JustBlog\\Views\\Shared\\Components\\LastedPosts\\LastedPostsViewComponent.cs",
+              "ToolTip": "D:\\EF_Core\\FA.JustBlog\\FA.JustBlog\\Views\\Shared\\Components\\LastedPosts\\LastedPostsViewComponent.cs",
+              "RelativeToolTip": "FA.JustBlog\\Views\\Shared\\Components\\LastedPosts\\LastedPostsViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T02:41:00.619Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
